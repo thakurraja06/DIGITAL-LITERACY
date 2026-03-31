@@ -1,11 +1,17 @@
 # DIGITAL-LITERACY
+
 👤 Student Information
 
 Name: RAJA THAKUR
+
 Registration Number: 25BCE11288
+
 Branch: B.TECH (CSE CORE)
+
 University: VIT Bhopal University
+
 Role: Student Digital Ambassador
+
 🚀 Project Overview
 
 This repository contains the complete portfolio for the Digital Literacy (CSE0001) course. As a Student Digital Ambassador, my goal is to help peers navigate the digital landscape safely and professionally. This portfolio documents my journey through five key modules, ranging from digital design to cybersecurity awareness.
@@ -30,7 +36,9 @@ task-5-cybercrime/	UPI Payment Fraud Case Study and a student-focused Prevention
 🔹 Module 3: Collaboration & Coding Completed beginner-level challenges on HackerRank and developed a 5-question awareness quiz using Google Forms.
 
 Quiz Link: (https://docs.google.com/forms/d/e/1FAIpQLSeUkAaz7g7PAX6L_G2a4WxxFQw41b2vjKYnUOusYjtuvaYFHw/viewform?usp=header)
-🔹 Module 4: Effective Communication Drafted professional correspondence for academic extensions and internship inquiries. Also compiled a checklist for responsible social media usage.
+🔹 
+
+Module 4: Effective Communication Drafted professional correspondence for academic extensions and internship inquiries. Also compiled a checklist for responsible social media usage.
 
 🔹 Module 5: Cybersecurity Researched a detailed case study on UPI Payment Fraud and provided a 'Stay Safe Online' guide featuring the National Cyber Crime Helpline (1930) and reporting portal.
 
